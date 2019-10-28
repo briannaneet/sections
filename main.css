@@ -10,6 +10,18 @@ body {
   background-color: #eee9de;
 }
 
-h1 + p {
+.img {
+  display: inline-block;
+}
+
+.info {
+  display: inline-block;
+}
+
+h1 {
+  color: #333;
+}
+
+p {
   color: #333;
 }
